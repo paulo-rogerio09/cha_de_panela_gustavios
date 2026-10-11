@@ -1,0 +1,6 @@
+@cha_de_panela_HostAddress = http://localhost:5159
+
+GET {{cha_de_panela_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
